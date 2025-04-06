@@ -14,3 +14,7 @@ I am an undergraduate student at ShanghaiTech University, majoring in CS from 20
   <img alt="github contribution profile-3d-contrib" src="./profile-3d-contrib/profile-gitblock.svg">
 </picture>
 
+![](./profile-3d-contrib/profile-season-animate.svg)
+![](./profile-3d-contrib/profile-season.svg)
+
+
