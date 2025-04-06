@@ -10,11 +10,9 @@ I am an undergraduate student at ShanghaiTech University, majoring in CS from 20
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg">
-  <img alt="github contribution profile-3d-contrib" src="./profile-3d-contrib/profile-gitblock.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
+  <img alt="github contribution profile-3d-contrib" src="./profile-3d-contrib/profile-season-animate.svg">
 </picture>
 
-![](./profile-3d-contrib/profile-season-animate.svg)
-![](./profile-3d-contrib/profile-season.svg)
 
 
